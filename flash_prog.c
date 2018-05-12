@@ -151,7 +151,7 @@ int main(int argc, char *argv[]) {
         offset+=ret;
         loops++;
     }
-    fprintf(stderr,"\n");
+    fprintf(stderr,"\nFlash written successfully!\n");
     fclose(i_f);
     close(fd);
 }
