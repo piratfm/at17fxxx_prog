@@ -1,6 +1,4 @@
 # AT17Fxxx programming tools
-This tools is to read/program AT17Fxxx(A) flash-based EEPROM chips by linux i2c bus.
-
 This programs are for reading/writing Atmel/Microchip AT17Fxxx(A) flash-based EEPROM's that often used as replacement for configuration PROM's for Altera/Xilinx FPGA's.
 
 To read/write You need to connect eeprom chip to your linux machine's i2c bus. If You have CH341A programmer, You can use it as well by using [i2c-ch341-usb](https://github.com/gschorcht/i2c-ch341-usb.git) kernel module, so any chips, connected to thsi programmer will be seen by i2cdetect app.
