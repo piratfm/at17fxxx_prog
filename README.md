@@ -10,7 +10,7 @@ Here is sample of connecting AT17F040A to ch341a-based programmer:
 
 Pinouts:
 
-Pin name|AT17FxxxA pin|24XX pin
+Pin name|AT17FxxxA chip pin|24XX socket pin
 -- | -- | --
 SDA|1|5
 SCL|2|6
