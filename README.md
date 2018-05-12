@@ -14,10 +14,10 @@ Pin name|AT17FxxxA pin|24XX pin
 -- | -- | --
 SDA|1|5
 SCL|2|6
-!RESET/OE|3| 
-nCS|4| 
+!RESET/OE|3 (not used)| 
+nCS|4 (not used)| 
 GND|5|4
-(A2)/nCAS|6| 
+(A2)/nCAS|6 (not used)| 
 !SER_EN|7|4
 VCC|8|8
 ||
